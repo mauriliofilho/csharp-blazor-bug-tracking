@@ -1,7 +1,8 @@
 repo_name: mauriliofilho/csharp-blazor-bug-tracking
 report_id: c8f4f61653e1fc6a3f3421cf9222778c
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:50:18+00:00'
+timestamp: '2024-01-05T08:31:31+00:00'
 requested_by: mauriliofilho
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/mauriliofilho/csharp-blazor-bug-tracking
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mauriliofilho/csharp-blazor-bug-tracking
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   detection_source: BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   last_updated_by: Alex Wolf
   last_updated_on: 2020-03-26 02:29:10.000000000 Z
@@ -50,7 +54,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
+  detection_source_url: https://github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   detection_source: BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   last_updated_by: Alex Wolf
   last_updated_on: 2020-04-06 19:18:34.000000000 Z
@@ -65,7 +69,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
+  detection_source_url: https://github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   detection_source: BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   last_updated_by: Alex Wolf
   last_updated_on: 2020-04-06 19:18:34.000000000 Z
@@ -78,6 +82,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/csharp-blazor-bug-tracking
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -87,6 +92,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mauriliofilho/csharp-blazor-bug-tracking
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -96,6 +102,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   detection_source: BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   last_updated_by: Alex Wolf
   last_updated_on: 2020-03-26 02:29:10.000000000 Z
@@ -108,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTracker.sln
   detection_source: BugTracker.sln
   last_updated_by: Alex Wolf
   last_updated_on: 2020-03-22 23:13:08.000000000 Z
@@ -120,7 +128,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
-  detection_source_url: github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
+  detection_source_url: https://github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   detection_source: BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   last_updated_by: Alex Wolf
   last_updated_on: 2020-03-26 02:29:10.000000000 Z
@@ -134,7 +142,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12918/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
-  detection_source_url: github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
+  detection_source_url: https://github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   detection_source: BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   last_updated_by: Alex Wolf
   last_updated_on: 2020-04-06 19:18:34.000000000 Z
@@ -148,7 +156,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13166/default_b4059c3863f54504d1a911991b5fe93c60e9e43e.png
-  detection_source_url: github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
+  detection_source_url: https://github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   detection_source: BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   last_updated_by: Alex Wolf
   last_updated_on: 2020-04-06 19:18:34.000000000 Z
@@ -162,7 +170,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
-  detection_source_url: github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
+  detection_source_url: https://github.com/mauriliofilho/csharp-blazor-bug-tracking/blob/master/BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   detection_source: BugTrackerUI.Tests/BugTrackerUI.Tests.csproj
   last_updated_by: Alex Wolf
   last_updated_on: 2020-03-26 02:29:10.000000000 Z
